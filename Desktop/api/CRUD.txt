@@ -1,0 +1,14 @@
+CRUD 
+	Get - Lista de todos meus objetos
+	GetById - Pegar meu único objeto
+	Create - Passar um json para criar meu objeto no banco
+	Delete
+	Update
+-----------------------------------------------------------------------------------------------------
+Paddrão de projeto
+	(MVC) - Model, View , Controller
+
+Repositorio
+
+
+Explicar ConnectionString
